@@ -6,7 +6,6 @@ Some of my handles on competitive programming sites:
 My ACs on various problem archives:
 
 [USACO](https://docs.google.com/spreadsheets/d/1tISBF1Sa65Tfq3WPhbDsiQBRufvorbDvMVBGxi3ajZw/edit?usp=sharing),
-[CSES](https://cses.fi/problemset/user/92061/),
-[Library Checker](https://judge.yosupo.jp/user/mark)
+[CSES](https://cses.fi/problemset/user/92061/)
 
-The vast majority of my practice is done on Codeforces.
+I mainly practice on Codeforces.
