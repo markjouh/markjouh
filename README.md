@@ -1,5 +1,3 @@
-# mark
-
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/mark.svg)](https://codeforces.com/profile/mark) 
 [![AtCoder](https://badges.joonhyung.xyz/atcoder/markjouh.svg)](https://atcoder.jp/users/markjouh)
 
@@ -12,3 +10,5 @@ My profiles on online judges:
 - [CSES](https://cses.fi/problemset/user/92061/)
 - [Kilonova](https://kilonova.ro/profile/mark)
 - [oj.uz](https://oj.uz/profile/mzh)
+
+You can contact me on Discord at `markjouh` or though email at `xinyunzhouu@gmail.com`.
