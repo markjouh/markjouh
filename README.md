@@ -11,4 +11,5 @@ My profiles on online judges:
 - [Kilonova](https://kilonova.ro/profile/mark)
 - [oj.uz](https://oj.uz/profile/mzh)
 
-You can contact me on Discord at `markjouh` or though email at `xinyunzhouu@gmail.com`.
+You can contact me through:
+- Discord: `markjouh`
