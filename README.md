@@ -9,6 +9,7 @@ My profiles on various online judges:
 - [Atcoder](https://atcoder.jp/users/markjouh)
 - [CSES](https://cses.fi/problemset/user/92061/)
 - [Kilonova](https://kilonova.ro/profile/mark)
+- [CS Academy](https://csacademy.com/user/markjouh)
 - [oj.uz](https://oj.uz/profile/mzh)
 
 You can contact me through:
