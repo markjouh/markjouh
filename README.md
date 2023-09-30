@@ -1,9 +1,9 @@
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/mark.svg)](https://codeforces.com/profile/mark) 
 [![AtCoder](https://badges.joonhyung.xyz/atcoder/markjouh.svg)](https://atcoder.jp/users/markjouh)
 
-Hello, I'm a high school student interested in computer science and competitive programming.
+Hello, I'm a high school student from Bucks County, PA. I'm interested in computer science and competitive programming.
 
-My profiles on online judges:
+My profiles on various online judges:
 
 - [Codeforces](https://codeforces.com/profile/mark)
 - [Atcoder](https://atcoder.jp/users/markjouh)
