@@ -11,6 +11,7 @@ My profiles on various online judges:
 - [Kilonova](https://kilonova.ro/profile/mark)
 - [CS Academy](https://csacademy.com/user/markjouh)
 - [oj.uz](https://oj.uz/profile/mzh)
+- [infoarena](https://www.infoarena.ro/utilizator/markjouh)
 
 You can contact me through:
 - Discord: `markjouh`
